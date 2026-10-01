@@ -1,5 +1,5 @@
 # Project Description
-University Final Year Project: E-OSCI V1
+E-OSCI V1
 
 1. Abstract: A portable oscilloscope...
 2. Introduction: Oscilloscopes are vital...
