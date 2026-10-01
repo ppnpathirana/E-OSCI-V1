@@ -1,0 +1,8 @@
+Item,Description,Quantity,Price Est (LKR)
+ESP32-WROOM-32,Microcontroller DevKit,1,2500
+ILI9341 2.8",SPI TFT Display,1,3000
+SD Card Module,MicroSD SPI,1,800
+Push Buttons,Tactile Switches,4,200
+Resistors,100k & 10k,2,50
+PCB/Breadboard,Prototyping,1,500
+Total,,,7050
